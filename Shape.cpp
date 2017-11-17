@@ -1,4 +1,4 @@
-／／author： Yujie Ren  10415719
+//author： Yujie Ren  10415719
 #include <iostream>
 #include <fstream>
 #include <vector>
